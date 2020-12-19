@@ -1,0 +1,20 @@
+.maincontainer{
+
+}
+
+.cards{
+  float: left;
+  padding: 10px 10px 10px 10px;
+}
+
+.card >.card__category{
+    padding-left: 5px;
+}
+
+.card__info >.card__title{
+  padding-left: 5px;
+}
+
+.jumbotron{
+ width: 100%;
+}
